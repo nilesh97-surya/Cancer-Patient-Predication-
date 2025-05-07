@@ -1,2 +1,3 @@
-# Cancer-Patient-Predication-
-Cancer Patient Predication 
+# Cancer-Patient-Predication
+Cancer Prediction with Machine Learning
+cancer is a significant health challenge worldwide, affecting millions of women annually. Early detection and diagnosis are crucial in increasing the chances of successful treatment and survival. This project aims to develop a machine learning model that can accurately predict whether breast tumors are benign (non-cancerous) or malignant (cancerous) based on medical data. By leveraging predictive modeling techniques, this solution will assist healthcare professionals in diagnosing breast cancer early, improving patient outcomes, and potentially saving lives.
